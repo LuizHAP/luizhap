@@ -9,4 +9,4 @@ Trabalho atualmente na <b><a href="https://uaubox.com.br">@UAUBox</a></b> :rocke
 <br/> :computer: &nbsp; Minha stack: React.js, Material-Ui, Google Analytics e SEO Ranking
 <br/> :game_die: &nbsp; Sobre mim: Sou Nerd, adoro assistir séries, amo RPG de Mesa, jogo World of Warcraft e acompanho Futebol Americano :football: 
 
-Clique <a href="https://linktr.ee/pansarini.tech>aqui </a> para me seguir nas minhas redes sociais
+Clique <a href="https://linktr.ee/pansarini.tech">aqui</a> para me seguir nas minhas redes sociais
