@@ -6,7 +6,7 @@ Sou <b>Desenvolvedor Frontend | CRO & SEO Analyst</b> :computer: e apaixonado po
 Trabalho atualmente na <b><a href="https://uaubox.com.br">@UAUBox</a></b> :rocket:, empresa que me deu a oportunidade de começar minha carreira como Desenvolvedor e decolar na minha nova área profissional.
 
 <br/> :green_heart: &nbsp; Amo o que eu faço e tenho muito orgulho do futuro que estou criando 
-<br/> :computer: &nbsp; Minha stack: React.js, Material-Ui, Google Analytics e SEO Ranking
+<br/> :computer: &nbsp; Minha stack: Next.js, Material-Ui e Redux
 <br/> :game_die: &nbsp; Sobre mim: Sou Nerd, adoro assistir séries, amo RPG de Mesa, jogo World of Warcraft e acompanho Futebol Americano :football: 
 
 [![luizhap's github stats](https://github-readme-stats.vercel.app/api?username=luizhap)](https://github.com/anuraghazra/github-readme-stats)
