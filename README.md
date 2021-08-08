@@ -3,7 +3,7 @@
 Sou <b>Desenvolvedor Frontend | CRO & SEO Analyst</b> :computer: e apaixonado por tecnologia, não importa qual seja ela! :heart_eyes:
 <br/>Formado em <b>Engenharia de Controle e Automação</b>, moro em Jundiai - SP. :octocat:
 
-Trabalho atualmente na <b><a href="https://uaubox.com.br">@UAUBox</a></b> :rocket:, empresa que me deu a oportunidade de começar minha carreira como Desenvolvedor e decolar na minha nova área profissional.
+Trabalho atualmente na <b><a href="https://www.corebiz.ag/pt/">@Corebiz</a></b> :rocket: como Desenvolvedor Frontend VTEX
 
 <br/> :green_heart: &nbsp; Amo o que eu faço e tenho muito orgulho do futuro que estou criando 
 <br/> :computer: &nbsp; Minha stack: Next.js, Material-Ui e Redux
