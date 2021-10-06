@@ -3,6 +3,8 @@
 <h3 align="center">Innovative Frontend Developer and ambitious problem solver with passion for new experiences</h3>
 <h3 align="center">“All we have to decide is what to do with the time that is given us.” — Gandalf.</h3>
 
+<a href="https://app.daily.dev/luizhap"><img align="center" src="https://api.daily.dev/devcards/0916a70b25414caabb75c3cee7dc59bb.png?r=lt6" width="400" alt="Luiz Henrique's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizhap&label=Profile%20views&color=0e75b6&style=flat" alt="luizhap" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=luizhap&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
