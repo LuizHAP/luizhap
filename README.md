@@ -9,7 +9,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=luizhap&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working in [Corebiz](https://www.corebiz.ag/pt/)
+- 🔭 I’m currently working in [Luizalabs](https://www.instagram.com/luizalabs/)
 
 - 🌱 I’m currently learning **Microservices**
 
