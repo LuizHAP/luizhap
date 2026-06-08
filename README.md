@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizhap&label=Profile%20views&color=0e75b6&style=flat" alt="luizhap" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luizhap&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🌱 I’m currently learning **Microservices**
 
 - 📫 How to reach me **lpansarini@gmail.com**
